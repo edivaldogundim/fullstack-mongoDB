@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+   
+.box-produtos{
+    text-align: center;
+    overflow: hidden; 
+    max-height: 295px;
+    display:inline-block;
+}
+ 
+.Footer{
+    margin-top:50px;
+    text-align: center;
+    color: red;
+    font-size: 20px;
+     }
+
